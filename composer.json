@@ -1,0 +1,11 @@
+{
+    "name": "root/design-model",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+
+        }
+    }
+}
